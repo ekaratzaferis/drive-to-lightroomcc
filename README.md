@@ -29,8 +29,8 @@ This open-source tool is designed for photographers and content creators who wan
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/gdrive-lightroom-sync.git
-cd gdrive-lightroom-sync
+git clone https://github.com/ekaratzaferis/drive-to-lightroomcc.git
+cd drive-to-lightroomcc
 ```
 
 ### 2. Set Up Virtual Environment
